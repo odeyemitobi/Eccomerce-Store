@@ -1,5 +1,8 @@
 # Ecommerce Stores
 
+# Images
+![Eccomerce image](SS1.png)
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
